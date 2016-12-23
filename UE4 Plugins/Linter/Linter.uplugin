@@ -1,0 +1,26 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "Linter",
+	"Description" : "",
+	"Category" : "Other",
+	"CreatedBy" : "Michael Allar",
+	"CreatedByURL" : "https://gamemak.in",
+	"DocsURL" : "https://gamemak.in",
+	"MarketplaceURL" : "com.epicgames.launcher://ue/marketplace/content/5817c0a8a435471484f23e223ad5c9f5",
+	"SupportURL" : "https://gamemak.in",
+	"EnabledByDefault" : true,
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"Installed" : true,
+	"RequiresBuildPlatform" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "Linter",
+			"Type" : "Editor",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
